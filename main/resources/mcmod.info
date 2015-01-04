@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SmiterTest",
+  "name": "Cobalt Shade Corporation Mod 0001 - Notch's Smiter",
+  "description": "Testing.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CobaltShade"],
+  "credits": "Test",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
